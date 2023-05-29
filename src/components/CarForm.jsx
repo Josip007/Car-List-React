@@ -24,8 +24,6 @@ function CarForm() {
     const handleSubmit = (event) => {
         event.preventDefault();
         dispatch(addCar({ name, cost }));
-        dispatch(changeName(''));
-        dispatch(changeCost(0));
         document.getElementById("name-input").focus();
         
     }
