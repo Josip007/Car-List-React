@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+App where user can add and delete car name and price, when user searches for car  the car will be highlighted if it is on the list.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
